@@ -124,7 +124,7 @@ public:
 
 };
 
-
+//need to be fixet
 class lineObfuscator : public Obfuscator
 {
 public:
