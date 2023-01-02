@@ -156,7 +156,7 @@ public:
 };
 
 
-//this is a comment presnted just in the master branch
+//this is a comment presnted just in the second branch
 int main() {
 
 	//lineObfuscator obj;
